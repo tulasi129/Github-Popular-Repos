@@ -1,0 +1,39 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.repos-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.popular-heading {
+  font-family: lobster;
+  font-weight: bold;
+}
+.filterItem-className {
+  display: flex;
+  width: 30%;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.repositoryList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.failure-view-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: bold;
+}
+.failure-view-image {
+  width: 50%;
+}
